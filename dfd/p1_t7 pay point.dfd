@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+"PAYSOFT v1.0 MAKER:jesus esteban blanco sandoval "
+4
+1
+30
+"IMPUT/type the first product"
+5
+1
+2
+P1
+4
+1
+31
+"IMPUT/type the second product"
+5
+1
+2
+P2
+4
+1
+30
+"IMPUT/type the third product"
+5
+1
+2
+P3
+4
+1
+31
+"IMPUT/type the fourth product"
+5
+1
+2
+P4
+7
+1
+1
+36
+P1 <=0 OR P2 <=0 OR P3 <=O OR P4 <=0
+6
+3
+6
+SUMPRO
+11
+P1+P2+P3+P4
+5
+IVA19
+11
+SUMPRO*0.19
+5
+TOTAL
+12
+SUMPRO+IVA19
+4
+1
+97
+"The Gross value is : $", SUMPRO, " the tax IVA 19% is : $",IVA19, "the total invoice is $",TOTAL
+13
+4
+1
+46
+"ERR: some of the products are lees down cero"
+13
+1

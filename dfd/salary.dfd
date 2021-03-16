@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+106
+"salary v1.0 maker:jesus esteban blanco sandoval this software is using for calculate the averague salary"
+4
+1
+15
+"INPUT salary "
+5
+1
+6
+salary
+4
+1
+19
+"INPUT worked days"
+5
+1
+11
+worked_days
+6
+1
+8
+v_total 
+24
+(salary/30)* worked_days
+4
+1
+7
+v_total
+1

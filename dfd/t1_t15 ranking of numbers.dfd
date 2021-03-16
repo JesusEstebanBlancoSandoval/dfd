@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+128
+"ranking of number v 1.0 this software is using for classify numbers from highest to lowest maker:jesus esteban blanco sandoval"
+4
+1
+16
+"IMPUT/NUMBER_A"
+5
+1
+3
+N_A
+4
+1
+16
+"IMPUT/NUMBER_B"
+5
+1
+3
+N_B
+4
+1
+16
+"IMPUT/NUMBER_C"
+5
+1
+3
+N_C
+7
+1
+1
+19
+N_A>N_B AND N_A>N_C
+4
+1
+27
+"the greater number is N_A"
+13
+7
+1
+1
+19
+N_B>N_A AND N_B>N_C
+4
+1
+27
+"the greater number is N_B"
+13
+7
+1
+1
+19
+N_C>N_A AND N_C>N_B
+4
+1
+27
+"the greater number is N_C"
+13
+13
+13
+13
+1
